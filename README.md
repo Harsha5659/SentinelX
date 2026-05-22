@@ -254,7 +254,7 @@ This project was built to apply and demonstrate real cybersecurity and developme
 **Harsha Potharaj**
 Cybersecurity Student — Network Security · SOC Analysis · Threat Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harshapotharaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-Harsha5659-181717?style=flat-square&logo=github)](https://github.com/Harsha5659)
 
 ---
