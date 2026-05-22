@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 alerts.log
 .env
+sentinelx.log
+alerts.log
